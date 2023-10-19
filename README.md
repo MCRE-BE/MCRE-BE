@@ -1,8 +1,8 @@
 # Hi there, I'm Mathias
 
-<img alt="Creemers Consulting" src="https://raw.githubusercontent.com/MCRE-BE/MCRE-BE/main/pictures/logo.png" align="left" width="200" height="200"/>
-
 ### 👨🏻‍💻 About Me
+
+<img alt="Creemers Consulting" src="https://raw.githubusercontent.com/MCRE-BE/MCRE-BE/main/pictures/logo.png" align="left" width="200" height="200"/>
 
 - I'm a Business Engineer based in 🇫🇷 Valence 🇫🇷 but coming from 🇧🇪 Antwerp 🇧🇪
 - I am the owner of Creemers Consulting EURL, my freelance company.
