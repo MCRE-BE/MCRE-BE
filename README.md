@@ -8,11 +8,13 @@
 - I am the owner of Creemers Consulting EURL, my freelance company.
 - I focus on data engineering & analysis, focusing on bridging the gap between IT, BI and Business.
 - I occupied roles as Data Engineer, Project Manager or Warehouse Automation Manager.
-- On tech side, contributions are in data analysis, report development, ETL pipelines and timeseries based AI.
-- On business side, I have worked in Warehouse Automation, S&OP processes and Forecasting.
+- On tech side, contributions are in data analysis, reporting, ETL and timeseries based AI.
 - I have 10 years of experience in logistics, retail and the FMCJ industry.
-- I am not a technology expert, but a savy business user that is able to understand your problems and translate them to solutions.
 - I am trilingual Dutch, French & English
+
+
+I am not a technology expert, but a savy business user that is able to understand your problems and translate them to solutions.
+
 
 ### 🌐 Connect with me
 
