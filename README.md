@@ -1,4 +1,4 @@
-<img alt="Creemers Consulting" src="https://raw.githubusercontent.com/MCRE-BE/MCRE-BE/main/pictures/logo.pngi" align="right" width="300" height="300"/>
+<img alt="Creemers Consulting" src="https://raw.githubusercontent.com/MCRE-BE/MCRE-BE/main/pictures/logo.png" align="right" width="300" height="300"/>
 
 # Hi there, I'm Mathias
 
